@@ -2,6 +2,8 @@
 
 ## Edition Guide 中文版 (Chinese)
 
+> 本仓库不再维护，内容已移到新的仓库 [edition-guide-cn](https://github.com/rust-lang-cn/edition-guide-cn)：<https://github.com/rust-lang-cn/edition-guide-cn>，新仓库将持续跟进官方版本进行更新，欢迎大家 [Star 新仓库](https://github.com/rust-lang-cn/edition-guide-cn)。
+
 [![Build Status](https://travis-ci.org/rust-lang-nursery/edition-guide.svg?branch=master)](https://travis-ci.org/rust-lang-nursery/edition-guide)
 
 This book explains the concept of "editions", major new eras in [Rust]'s
